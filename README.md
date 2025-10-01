@@ -1,6 +1,5 @@
 # MEDICALSEGMENTATION
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmdhamddyy/MEDICALSEGMENTATION/blob/main/totalsegmentator.ipynb)   
-
+ 
 
 A medical segmentation using ai models
 # TASK
