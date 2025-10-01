@@ -1,4 +1,5 @@
- # MEDICALSEGMENTATION
+# MEDICALSEGMENTATION
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhmdhamddyy/MEDICALSEGMENTATION/blob/main/totalsegmentator.ipynb)
 A medical segmentation using ai models
 # TASK
 Cairo University Systems and Biomedical Engineering students had a challenging start of thier first year in the department.They were given a task its goal to segment ct images using diffrent ai models  and to give a 3d visualization of the organ,they also were asked to evaluate the models.
