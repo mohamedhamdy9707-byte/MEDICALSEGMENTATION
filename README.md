@@ -6,3 +6,6 @@ Cairo University Systems and Biomedical Engineering students had a challenging s
 Run the code blocks,edit the code to choose what ct file you want to work on and what organs you want to show.
 # CONTRIBUTERS
 [@mhmdhamddyy](https://github.com/mohamedhamdy9707-byte)
+# Under the Supervision of
+Prof. Dr. Tamer Basha
+Eng. Alaa Tarek
